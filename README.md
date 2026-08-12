@@ -1,4 +1,3 @@
-# TrackPadFlow
 <p align="center">
   <img src="Resources/TrackpadFlow-logo.png" width="120" height="120" alt="TrackpadFlow icon">
 </p>
